@@ -11,7 +11,7 @@ from datetime import datetime as dt
 
 
 
-st.title("Bitcoin prices")
+st.title("Bitcoin prices -- this is really useful!!!!!!!!!!!!!!!!!!!!!!!!!!")
 days=st.slider('No Of days',min_value=1,max_value=365,value=90)
 
 currency=st.radio('Currency', ('cad','usd','inr'))
